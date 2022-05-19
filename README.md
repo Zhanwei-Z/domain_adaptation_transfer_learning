@@ -16,3 +16,5 @@ Some parts of the code are borrowed from [CDAN](https://github.com/thuml/CDAN), 
 `train without memory cell.`   
 ## amazon-dslr-no_transfer.ipynb
 `train without adversarial loss.`  
+
+There are five different kinds of data collected from [NYC](https://opendata.cityofnewyork.us/), [Chicago](https://data.cityofchicago.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
