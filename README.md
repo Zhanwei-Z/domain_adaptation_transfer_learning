@@ -17,12 +17,4 @@ Some parts of the code are borrowed from [CDAN](https://github.com/thuml/CDAN), 
 ## amazon-dslr-no_transfer.ipynb
 `train without adversarial loss.`  
 
-There are five different kinds of data collected from [NYC](https://opendata.cityofnewyork.us/), [Chicago](https://data.cityofchicago.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
 
-
-<p>
-<img src="https://user-images.githubusercontent.com/11364490/79932648-f8a1e680-8488-11ea-98fe-c11ec22fc8a1.gif" width="200">
-<img src="https://user-images.githubusercontent.com/11364490/80813179-822d8300-8c04-11ea-84e6-142f04714c58.png" width="200">
-<img src="https://github.com/zwzhangzzz/domain_adaptation_transfer_learning/blob/main/data/office/r_0.png" width="200">
-
-</p>
